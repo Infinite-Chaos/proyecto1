@@ -1,4 +1,4 @@
 
 <Version: 1.1>
-/data/prueba.zip https://www.spigotmc.org/resources/rqndomutils.72950/download?version=302369
+/data/prueba.zip https://wordpress.org/latest.zip
 <End of Version>
